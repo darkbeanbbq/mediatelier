@@ -12,11 +12,10 @@ godot
 audacity
 
 ## toolkit 2 du créatif libre
-Atom
+Atom (/marktext)
 OBS studio
 PureRef
 Peek
 Firefox
 Thunderbird
-Atom/marktext
 VLC
