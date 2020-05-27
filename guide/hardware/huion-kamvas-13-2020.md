@@ -28,8 +28,7 @@ ctrl z,
 
 
 
-## Krita script
-
+## Krita keys
 
 ```
 #!/bin/bash
