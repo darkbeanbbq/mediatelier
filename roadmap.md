@@ -14,8 +14,8 @@ début : 29 juin 2020
 - [ ] page philosophie/manifesto
 - [ ] page de présentation/à propos
 - [ ] début page ressources
-- [ ] base de feuille de route
 - [ ] structure de base pour guide inkscape et krita
+- [ ] README
 
 fin : ?
 
@@ -30,6 +30,7 @@ fin : ?
  - [ ] à quoi ça sert/peut servir
  - [ ] présentation interface
  - ...
+- page 404
 
 ## 0.?
 ---
