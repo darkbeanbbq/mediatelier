@@ -2,13 +2,15 @@
 title: feuille de route
 ---
 
+Voici la feuille de route du mediatelier qui sert lister les tâches à faire et à suivre leur progression.
+
 ## 0.0 - préparer le terrain
 début : 29 juin 2020
 - [x] nom de domaine
 - [x] redirection
 - [x] github pages
-- [ ] base jekyll
-- [ ] css (très) basique
+- [x] base jekyll
+- [x] css (très) basique
 - [ ] homepage de base avec images placeholder
 - [ ] page (index) guide du créatif libre
 - [ ] page philosophie/manifesto
@@ -26,10 +28,10 @@ fin : ?
 	- [ ] présentation interface
 	- ...
 - [ ] base de guide krita
- - [ ] concepts (dessin numérique; calques, pinceaux, couleurs, pipettes, effets)
- - [ ] à quoi ça sert/peut servir
- - [ ] présentation interface
- - ...
+	- [ ] concepts (dessin numérique; calques, pinceaux, couleurs, pipettes, effets)
+	- [ ] à quoi ça sert/peut servir
+	- [ ] présentation interface
+	- ...
 - page 404
 
 ## 0.?

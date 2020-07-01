@@ -1,23 +1,37 @@
-# Le guide du créatif libre
+---
+title: Le guide du créatif libre
+---
 
 linux (système d'exploitation)
 
 ## toolkit du créatif libre
 gimp (manip image)
+
 inkscape (image vectorielles)
+
 krita (dessin/peinture numérique)
+
 scribus (mise en page)
+
 blender (modélisation et animation 3D, animation 2D, montage vidéo)
+
 godot (jeux vidéos 2D, 3D)
+
 audacity (enregistrement et manip son)
 
 ## autres outils libre
 Atom (/marktext) (écriture lightweight)
+
 OBS studio (enregistrement vidéo et régie streaming)
+
 PureRef (gratuit mais pas libre) (afficheur d'images de références)
+
 Peek (Linux only) (capture de mini séquence vidéo de l'écran)
+
 Firefox (navigateur)
+
 Thunderbird (mails)
+
 VLC (lecture vidéo et musique)
 
 
@@ -33,11 +47,11 @@ pour chaque :
 
 GNU/Linux : système d'exploitation
 
-Krita : croquis, dessin, animation 2D
+[Krita](krita/index.html) : croquis, dessin, animation 2D
 
-Inkscape : prototypage rapide mise en page, dessin vectoriel
+[Inkscape](inkscape/index.html) : prototypage rapide mise en page, dessin vectoriel
 
-Blender : 3D, animation 2D, montage vidéo
+[Blender](blender/index.html) : 3D, animation 2D, montage vidéo
 
 Scribus : mise en page documents, export pdf
 

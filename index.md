@@ -1,5 +1,7 @@
-homepage
-
+---
+layout: default
+title: mediatelier
+---
 
 j'ai fait des études de design où j'ai appris et utiliser des logiciels de créations, notamment les logiciels Adobe, qui sont payant.
 
