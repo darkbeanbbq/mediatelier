@@ -10,14 +10,18 @@ title: Jekyll
 Créer un `image.html` dans `_includes` tel que :
 
 ```
+{% raw %}
 <figure class="image">
   <img src="{{ include.url }}" alt="{{ include.description }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
+{% endraw %}
 ```
 
 ```
+{% raw %}
 {% include image.html url="/images/my-cat.jpg" description="My cat, Robert Downey Jr." %}
+{% endraw %}
 ```
 ---
 
