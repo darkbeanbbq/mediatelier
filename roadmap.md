@@ -17,7 +17,7 @@ début : 29 juin 2020
 - [ ] page de présentation/à propos
 - [ ] début page ressources
 - [ ] structure de base pour guide inkscape et krita
-- [ ] README
+- [x] README
 
 fin : ?
 
@@ -32,7 +32,7 @@ fin : ?
 	- [ ] à quoi ça sert/peut servir
 	- [ ] présentation interface
 	- ...
-- page 404
+- [x] page 404
 
 ## 0.?
 ---
