@@ -10,7 +10,7 @@ Répertoire de logiciels libres qui permettent de commencer son petit studio de 
 - Retouche d'image simple
 - Animation 2D
 
-## Inkscape(https://inkscape.org/fr/)
+## [Inkscape](https://inkscape.org/fr/)
 *Alternatif Illustrator*
 - Dessin vectoriel
 
