@@ -19,7 +19,7 @@ début : 29 juin 2020
 - [ ] page (index) guide du créatif libre
 - [ ] page philosophie/manifesto
 - [ ] page de présentation/à propos
-- [ ] début page ressources
+- [x] début page ressources
 - [ ] structure de base pour guide inkscape et krita
 - [x] README
 

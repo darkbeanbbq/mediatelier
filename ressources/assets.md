@@ -1,3 +1,3 @@
-## RESSOURCES DE JEU VIDÉO
+## RESSOURCES : JEU VIDÉO
 
-kenney.nl
+[Kenney](https://kenney.nl/)

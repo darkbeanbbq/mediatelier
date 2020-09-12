@@ -1,10 +1,9 @@
+# RESSOURCES : WEB
 
+## Base en html :
+[Interneting is hard](https://www.internetingishard.com/) : Site (en anglais) pour débuter avec le HTML et le CSS
 
-base en html :
-
-internetingishard
-
-[motherfuckingwebsite](http://motherfuckingwebsite.com/) (à traduire)
+[motherfuckingwebsite](http://motherfuckingwebsite.com/) :
 [bettermotherfuckingwebsite](http://bettermotherfuckingwebsite.com/) (à traduire)
 
 [staticman](https://staticman.net/)

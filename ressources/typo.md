@@ -1,4 +1,4 @@
-## TYPOGRAPHIE
+## RESSOURCES : TYPOGRAPHIES
 
 Répertoire de fonderies typographiques, typothèques et polices de caractères en licence libre.
 
