@@ -4,5 +4,7 @@
   link: /guide.html
 - name: 📝 blog
   link: /blog.html
+- name: ressources
+  link: /ressources.html
 - name: 🤔 à propos
   link: /about.html
