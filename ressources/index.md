@@ -1,9 +1,9 @@
 # Ressources libres et open source
 
-[IMAGES](/images.html)
+[IMAGES](ressources/images.html)
 
-[TYPOGRAPHIE](/typo.html)
+[TYPOGRAPHIE](ressources/typo.html)
 
-[WEB](/web.html)
+[WEB](ressources/web.html)
 
-[JEU VIDÉO](assets.html)
+[JEU VIDÉO](ressources/assets.html)
