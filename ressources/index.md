@@ -4,6 +4,6 @@
 
 [TYPOGRAPHIE](/typo.html)
 
-[WEB](/web.html)
+[WEB](/ressources/web.html)
 
 [JEU VIDÉO](/assets.html)
