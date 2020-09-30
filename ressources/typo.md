@@ -1,5 +1,7 @@
 ## TYPOGRAPHIE
 
+Sites ressources :
+
 ## Open Foundry
 
 ### use & modify
@@ -12,3 +14,10 @@ Sélection de typo open source
 ## Open font library
 
 http://typotheque.luuse.io/
+
+
+Typographies :
+
+Ioservka
+
+Inter
