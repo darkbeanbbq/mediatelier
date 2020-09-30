@@ -1,12 +1,6 @@
 ## RESSOURCES : TYPOGRAPHIES
 
-<<<<<<< HEAD
-Sites ressources :
-
-## Open Foundry
-=======
 Répertoire de fonderies typographiques, typothèques et polices de caractères en licence libre.
->>>>>>> 0ca23246df148e80d762c01c259fa835e8bbd3e4
 
 ## Fonderies typographiques
 - [Velvetyne](http://velvetyne.fr/) : Collectif français de typographes
@@ -25,17 +19,6 @@ Répertoire de fonderies typographiques, typothèques et polices de caractères 
 - [Faune](http://cnap.graphismeenfrance.fr/faune/)
 
 
-<<<<<<< HEAD
-http://typotheque.luuse.io/
-
-
-Typographies :
-
-Ioservka
-
-Inter
-=======
 ## Autres
 - [Les ressources typo de Velvetyne](http://velvetyne.fr/about/ressources/)
 - [Bye Google Fonts](https://switching.software/replace/google-fonts)
->>>>>>> 0ca23246df148e80d762c01c259fa835e8bbd3e4
