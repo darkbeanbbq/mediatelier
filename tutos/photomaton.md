@@ -1,6 +1,6 @@
 ---
 titre: Fabriquer un photomat avec un Raspberry Pi
-temps: -
+temps: 0
 ---
 
 [source - instant camera tut](https://learn.adafruit.com/instant-camera-using-raspberry-pi-and-thermal-printer)
