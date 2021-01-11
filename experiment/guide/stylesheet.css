@@ -1,0 +1,35 @@
+html, body {
+    /* setting html and body to 100% height required for divs to be 100% height */
+    height: 100%;
+    margin: 0px;
+    /* CSS smooth scrolling is not supported in IE and Safari */
+    scroll-behavior: smooth;
+}
+.container {
+    /* height: 100%; */
+    /*height: 500px; */
+}
+
+#krita {
+    background-color: aquamarine;
+}
+
+#blender {
+    background-color: antiquewhite;
+}
+
+#inkscape {
+    background-color: dodgerblue;
+}
+
+#scribus {
+    background-color: #ff4545;
+}
+
+#godot {
+    background-color: #ff4545;
+}
+
+#audacity {
+    background-color: #ff4545;
+}
