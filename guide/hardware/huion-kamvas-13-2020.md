@@ -56,3 +56,11 @@ lancer "Application au démarrage" via le launcher ou `gnome-session-properties`
 
 
 [source](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf)
+
+## Si pb avec mapping de l'écran
+
+`xsetwacom --list devices` pour avoir la liste des appareils et leurs id.
+`xrandr liveactivemonitors` pour avoir la liste des écrans actifs
+
+`xsetwacom --set <nom du stylet ou id> MapToOutput <nom de l'écran>` pour mapper le stylet à l'écran de la tablette [source](https://askubuntu.com/a/1082433)
+si ça ne fonctionne pas (j'ai eu l'erreur "Unable to find an output <nom de l'écran>." apparemment car j'ai une carte Nvidia) utiliser `xsetwacom --set <nom de stylet ou id> MapToOutput HEAD-1` [source](https://doc.ubuntu-fr.org/wacom#dual_screen_ou_mapper_la_tablette_sur_un_seul_ecran)
