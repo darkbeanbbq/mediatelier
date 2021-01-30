@@ -60,7 +60,7 @@ lancer "Application au démarrage" via le launcher ou `gnome-session-properties`
 ## Si pb avec mapping de l'écran
 
 `xsetwacom --list devices` pour avoir la liste des appareils et leurs id.
-`xrandr liveactivemonitors` pour avoir la liste des écrans actifs
+`xrandr --listactivemonitors` pour avoir la liste des écrans actifs
 
 `xsetwacom --set <'nom du stylet' ou id> MapToOutput <nom de l'écran>` pour mapper le stylet à l'écran de la tablette [source](https://askubuntu.com/a/1082433)
 
