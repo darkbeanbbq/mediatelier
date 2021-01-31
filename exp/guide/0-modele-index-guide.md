@@ -88,8 +88,8 @@ Répertoire de logiciels libres qui permettent de commencer son petit studio de 
 
 -> être un codex et guide pour les personnes cherchant à créer sur ordinateur avec des outils libres (ou le plus accéssible et respectueux possible)
 -> ne cherche pas à remplacer la doc officiel
--> avoir un format épuré et simple à comprendre pour rapidement pouvoir s'approprier ces/ses outils
--> ne pas apprendre que pas l'outils mais à travers les concepts qu'ils utilisent et que d'autres logiciels utilisent aussi.
+-> **avoir un format épuré et simple à comprendre pour rapidement pouvoir s'approprier ces/ses outils**
+-> <u>ne pas apprendre que par l'outils mais à travers les concepts qu'ils utilisent et que d'autres logiciels utilisent aussi.</u>
 
 
 ## Pour qui ?
