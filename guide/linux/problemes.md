@@ -6,7 +6,7 @@ Utile pour quand une extension bug, etc.
 `Alt + F2` pour ouvrir l'invite de commande
 entrer `restart`
 
-## Ajouter répertoire au PATH
+## Add directory to PATH
 `WARNING: The script XXX is installed in '/home/darkbean/.local/bin' which is not on PATH.
 Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.`
 
