@@ -1,10 +1,10 @@
 - name: mediatelier
   link: /
-- name: 📖 guide
+- name: guide
   link: /guide.html
-- name: 📝 blog
+- name: blog
   link: /blog.html
 - name: ressources
   link: /ressources
-- name: 🤔 à propos
+- name: à propos
   link: /about.html
