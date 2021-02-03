@@ -2,7 +2,7 @@
 title: À propos
 ---
 
-j'ai fait des études de design où j'ai appris et utiliser des logiciels de créations, notamment les logiciels Adobe, qui sont payant.
+j'ai fait des études de design où j'ai appris et utiliser des logiciels de créations, notamment les logiciels Adobe, qui sont payants.
 
 je travaille dans une médiathèque où je fais des ateliers de création, et où utiliser des logiciels payants n'a pas de sens car l'idée est que tout le monde puisse y avoir accès si ils veulent continuer chez eux.
 

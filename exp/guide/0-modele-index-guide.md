@@ -8,7 +8,7 @@ questionnements :
 - nom du logiciel ou fonction en premier ? (ex: "Krita - dessin et peinture numérique" ou "Dessin et peinture numérique - Krita")
 ---
 #### liste de logiciels
-ordre du plus au moins pertinent pour une personne créative "normie" à designer
+ordre du plus au moins pertinent pour une personne créative débutante à designer
 
 krita - dessin, peinture, illustration
 Blender - 3d, animation, etc..
@@ -18,12 +18,25 @@ GIMP/Darktable - photo, retouche...
 Godot - moteur de jeux 2D/3D
 Audacity - enregistrement et edition audio
 
-voir aussi
+bien sur : LINUX
+
+mais aussi:
 OBS
 FontForge
-Marktext/Zlettr
+Atom/Marktext/Zlettr
 LibreOffice
+VLC
+Firefox
+Thunderbird
+Processing/Arduino
+Presentator.io
 
+Ça fait beaucoup au bout d'un moment...
+- Tout mettre sur la page principale ?
+- Faire par catégories ?
+- Faire page : liste complète ?
+
+---
 
 Répertoire de logiciels libres qui permettent de commencer son petit studio de création numérique.
 
