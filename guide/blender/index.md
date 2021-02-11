@@ -1,5 +1,8 @@
 ---
 title: Blender
+layout: page
+banner-image: /assets/img/tests/blender-banner.jpg
+banner-icon: /assets/img/logos/blender.logo.svg
 ---
 
 # Blender

@@ -1,5 +1,8 @@
 ---
 title: Inkscape
+layout: page
+banner-image: /assets/img/tests/vector-banner.svg
+banner-icon: /assets/img/logos/inkscape.logo.svg
 ---
 
 # Inkscape

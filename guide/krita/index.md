@@ -1,5 +1,8 @@
 ---
 title: Krita
+layout: page
+banner-image: /assets/img/tests/krita-banner-geometrie.png
+banner-icon: /assets/img/logos/krita.logo.svg
 ---
 
 # Krita
