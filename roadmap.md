@@ -14,7 +14,7 @@ début : 29 juin 2020
 - [x] github pages
 - [x] base jekyll
 - [x] css (très) basique
-- [ ] liste des alternatives libres aux logiciels Adobe
+- [x] liste des alternatives libres aux logiciels Adobe
 - [ ] homepage de base avec images placeholder
 - [ ] page (index) guide du créatif libre
 - [ ] page philosophie/manifesto

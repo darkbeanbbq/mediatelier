@@ -1,5 +1,8 @@
 ---
 title: Krita
+layout: page
+banner-image: /assets/img/tests/krita-banner-geometrie.png
+banner-icon: /assets/img/logos/krita.logo.svg
 ---
 
 # Krita
@@ -10,6 +13,17 @@ Krita est un logiciel de dessin et de peinture numérique. On peut le comparer �
 - [Documentation officielle (partiellement traduite)](https://docs.krita.org/fr/)
 
 ---
+
+## fonctions piliers
+- moteur de pinceaux
+- assistants et multi-pinceau
+- calques et effets
+
+## exemple d'utilisation
+- dessin et peinture
+- animation / création de gifs
+- rosaces
+
 
 masque de couleur sur lignes (inherit alpha) : https://docs.krita.org/en/user_manual/layers_and_masks.html#inherit-alpha-or-clipping-layers
 
