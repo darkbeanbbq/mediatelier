@@ -3,18 +3,23 @@ layout: default
 title: mediatelier
 ---
 
-- guide du créatif libre (présentation / guides / docs)
+<br>
 
-- ateliers (activités / tutos)
+🚧 site encore en construction 🏗️
 
-- ressources (liens vers sites)
+Destiné aux médiathécaires, artistes et à toutes personnes souhaitant s'initier à la création sur ordinateur ou pour commencer son atelier numérique.
 
-- (blog)
+![image guide du créatif libre](/assets/img/guide-du-creatif-libre.png)
+[vers le guide](guide.html)
 
+<br>
 
+Disponible pour le moment :
+- [liste des logiciels libres de création essentiels](guide.html)
+- [quelques ressources libre et open-source](/ressources)
 
-marre des abonnements ?
-
-envie d'apprendre à créer sur ordinateur
-
-des logiciels gratuits ?
+Bientôt :
+- davantage d'information sur les différents logiciels
+- tutoriels
+- blog de création
+- fiche d'animation d'ateliers
