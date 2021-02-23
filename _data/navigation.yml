@@ -2,9 +2,9 @@
   link: /
 - name: guide
   link: /guide.html
-- name: blog
-  link: /blog.html
+#- name: blog
+#  link: /blog.html
 - name: ressources
-  link: /ressources
+  link: /ressources/
 - name: à propos
   link: /about.html
