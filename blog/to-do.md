@@ -1,0 +1,2 @@
+- (pourquoi) installer linux (en médiathèque) (pour tester)
+- 
