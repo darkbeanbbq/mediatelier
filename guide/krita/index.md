@@ -24,6 +24,10 @@ Krita est un logiciel de dessin et de peinture numérique. On peut le comparer �
 - animation / création de gifs
 - rosaces
 
+<video autoplay muted loop>
+<source src="/assets/img/tests/multipinceau.webm" type="video/webm">
+</video>
+
 
 masque de couleur sur lignes (inherit alpha) : https://docs.krita.org/en/user_manual/layers_and_masks.html#inherit-alpha-or-clipping-layers
 
