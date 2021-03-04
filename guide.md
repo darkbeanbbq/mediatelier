@@ -1,6 +1,6 @@
 ---
 title: Guide du créatif libre
-layout: minim
+layout: default
 ---
 
 ![image guide du créatif libre](assets/img/guide-du-creatif-libre.png)

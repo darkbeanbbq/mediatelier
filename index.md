@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: mediatelier
 ---
 
@@ -9,7 +9,7 @@ title: mediatelier
 
 Destiné aux médiathécaires, artistes et à toutes personnes souhaitant s'initier à la création sur ordinateur ou pour commencer son atelier numérique.
 
-![image guide du créatif libre](/assets/img/guide-du-creatif-libre.png)
+![image guide du créatif libre](/assets/img/guide-du-creatif-libre-wip.jpg)
 [vers le guide](guide.html)
 
 <br>
