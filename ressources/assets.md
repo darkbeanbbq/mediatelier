@@ -1,5 +1,5 @@
 ---
-title : RESSOURCES : JEU VIDÉO
+title : "RESSOURCES : JEU VIDÉO"
 ---
 
 ## RESSOURCES : JEU VIDÉO
