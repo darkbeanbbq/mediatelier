@@ -18,18 +18,13 @@ Je l'utilise principalement pour faire de l'animation 2D et du montage donc le g
 - [Tutoriels officiels (anglais)](https://www.blender.org/support/tutorials/)
 
 
-## fonctions pilier
+## fonctionnalités
 - modélisation et sculpture
 - éditeur de matériaux (shader)
 - animation via images clés et interpolation
 - grease pencil
+- montage vidéo
 
 ## exemple d'utilisation
 - création de modèles 3d (assets pour jeux, impressions etc.)
 - animation 2D et 3D
-
-## 3D
-
-## Animation 2D
-
-## Montage
