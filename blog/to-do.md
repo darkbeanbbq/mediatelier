@@ -1,2 +1,2 @@
 - (pourquoi) installer linux (en médiathèque) (pour tester)
-- 
+- passage à linux et aux logiciels open source : pourquoi, comment, avantages et difficultés
