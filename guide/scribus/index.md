@@ -12,7 +12,7 @@ banner-icon: /assets/img/logos/scribus.logo.svg
 [Site officiel](https://www.scribus.net/)
 [Documentation officielle](https://wiki.scribus.net/canvas/Page_principale)
 
-## 3 fonctions piliers
+## Fonctionnalités
 
 - création de styles
 - incorporation de media en cadres par liens

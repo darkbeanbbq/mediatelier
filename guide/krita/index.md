@@ -14,7 +14,7 @@ LE logiciel de dessin et de peinture numérique. On peut le comparer à Photosho
 
 ---
 
-## fonctionnalités
+## Fonctionnalités
 - moteur de pinceaux
 <video autoplay muted loop>
 <source src="/assets/img/tests/krita-moteur-pinceau.webm" type="video/webm">
@@ -26,7 +26,7 @@ LE logiciel de dessin et de peinture numérique. On peut le comparer à Photosho
 - timeline et pelure d'oignon
 
 
-## exemple d'utilisation et d'ateliers
+## Exemple d'utilisation et d'ateliers
 - dessin et peinture numérique
 - colorisation de dessins
 - création de rosaces

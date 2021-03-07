@@ -9,6 +9,6 @@ banner-icon: /assets/img/logos/fontforge.logo.svg
 
 -presentation-
 
-## fonctions piliers
+## Fonctionnalités
 
 ## exemple de réalisation

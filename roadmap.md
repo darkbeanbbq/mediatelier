@@ -15,10 +15,10 @@ début : 29 juin 2020
 - [x] base jekyll
 - [x] css (très) basique
 - [x] liste des alternatives libres aux logiciels Adobe
-- [ ] homepage de base avec images placeholder
-- [ ] page (index) guide du créatif libre
+- [x] homepage de base avec images placeholder
+- [x] page (index) guide du créatif libre
 - [ ] page philosophie/manifesto
-- [ ] page de présentation/à propos
+- [x] page de présentation/à propos
 - [x] début page ressources
 - [ ] structure de base pour guide inkscape et krita
 - [x] README

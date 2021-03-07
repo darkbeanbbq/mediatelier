@@ -6,16 +6,16 @@ banner-icon: /assets/img/logos/godot.logo.svg
 ---
 
 # Godot
--presentation-
+-présentation-
 
-[Site officiel]()
-[Documentation officielle]()
+[Site officiel](https://godotengine.org/)
+[Documentation officielle](https://docs.godotengine.org/fr/stable/)
 
-## fonctions piliers
-
-- 2D et 3D
-- structure simple (scenes , nodes, scene tree, signals)
-- GD script
+## Fonctionnalités
+- logiciel complet et interface simple
+- moteur 2D et 3D
+- structure simple (arbre à scènes, scènes, nœuds, signaux)
+- un langage facile à prendre en main : le GDScript
 
 ## exemple de réalisation
 - applis

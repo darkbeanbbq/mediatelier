@@ -18,7 +18,7 @@ Je l'utilise principalement pour faire de l'animation 2D et du montage donc le g
 - [Tutoriels officiels (anglais)](https://www.blender.org/support/tutorials/)
 
 
-## fonctionnalités
+## Fonctionnalités
 - modélisation et sculpture
 - éditeur de matériaux (shader)
 - animation via images clés et interpolation
