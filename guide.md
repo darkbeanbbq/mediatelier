@@ -7,7 +7,7 @@ layout: default
 
 Répertoire de logiciels libres qui permettent de commencer son atelier de création numérique.
 
-## [Krita](https://krita.org/fr)
+## [Krita]({% link guide/krita/index.md %})
 Dessin et peinture numérique, retouche d'image simple, animation 2D
 ![image interface](assets/img/guide/krita.png)
 
@@ -17,7 +17,7 @@ Dessin et peinture numérique, retouche d'image simple, animation 2D
 
 <br>
 
-## [Blender](https://www.blender.org/)
+## [Blender]({% link guide/blender/index.md %})
 Modélisation 3D, animation 2D & 3D, montage vidéo et bien plus
 ![image interface](assets/img/guide/blender.png)
 
@@ -25,7 +25,7 @@ Modélisation 3D, animation 2D & 3D, montage vidéo et bien plus
 
 <br>
 
-## [Inkscape](https://inkscape.org/fr/)
+## [Inkscape]({% link guide/inkscape/index.md %})
 Dessin vectoriel et illustration
 ![image interface](assets/img/guide/inkscape.png)
 
@@ -34,7 +34,7 @@ Dessin vectoriel et illustration
 <br>
 
 
-## [Scribus](https://www.scribus.net/)
+## [Scribus]({% link guide/scribus/index.md %})
 Mise en page de documents
 ![image interface](assets/img/guide/scribus.png)
 
@@ -51,7 +51,7 @@ Montage vidéo
 
 <br>
 
-## [Godot](https://godotengine.org/)
+## [Godot]({% link guide/godot/index.md %})
 Moteur de jeu 2D & 3D
 ![image interface](assets/img/guide/godot.png)
 
@@ -72,7 +72,7 @@ Retouche et manipulation d'image
 
 *Alternatif Photoshop*
 
-## [OBS Studio](https://obsproject.com/)
+## [OBS Studio]({% link guide/obs/index.md %})
 Enregistrement ou livestream d'écran & webcam
 
 ### [Synfig](https://www.synfig.org/)
