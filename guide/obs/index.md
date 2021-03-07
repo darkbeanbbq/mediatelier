@@ -9,12 +9,14 @@ banner-icon: /assets/img/logos/obs.logo.svg
 
 -présentation-
 
+[Site officiel](https://obsproject.com/fr)
+
 ## Fonctionnalités
 - enregistrement et diffusion en direct
 - structure simple en scènes & sources
 - filtres et effets
 
-## exemple d'utilisation
+## Exemple d'utilisation
 - enregistrement d'écran
 - captation vidéo
 - livestream

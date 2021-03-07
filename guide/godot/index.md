@@ -8,8 +8,8 @@ banner-icon: /assets/img/logos/godot.logo.svg
 # Godot
 -présentation-
 
-[Site officiel](https://godotengine.org/)
-[Documentation officielle](https://docs.godotengine.org/fr/stable/)
+- [Site officiel](https://godotengine.org/)
+- [Documentation officielle](https://docs.godotengine.org/fr/stable/)
 
 ## Fonctionnalités
 - logiciel complet et interface simple
@@ -17,6 +17,6 @@ banner-icon: /assets/img/logos/godot.logo.svg
 - structure simple (arbre à scènes, scènes, nœuds, signaux)
 - un langage facile à prendre en main : le GDScript
 
-## exemple de réalisation
+## Exemple de réalisation
 - applis
 - jeux

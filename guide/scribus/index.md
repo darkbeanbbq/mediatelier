@@ -9,15 +9,14 @@ banner-icon: /assets/img/logos/scribus.logo.svg
 
 -présentation-
 
-[Site officiel](https://www.scribus.net/)
-[Documentation officielle](https://wiki.scribus.net/canvas/Page_principale)
+- [Site officiel](https://www.scribus.net/)
+- [Documentation officielle](https://wiki.scribus.net/canvas/Page_principale)
 
 ## Fonctionnalités
 
 - création de styles
 - incorporation de media en cadres par liens
--
 
-## exemple d'utilisation
+## Exemple d'utilisation
 - livret
 - affiches / flyers
