@@ -78,5 +78,5 @@ Enregistrement ou livestream d'écran & webcam
 ### [Synfig](https://www.synfig.org/)
 Animation 2D
 
-### [FontForge](https://fontforge.org/)
+### [FontForge]({% link guide/fontforge/index.md %})
 Création de police de caractères
