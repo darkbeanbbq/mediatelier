@@ -10,7 +10,7 @@ banner-icon: /assets/img/logos/blender.logo.svg
 Principalement connu comme étant un logiciel de modélisation 3D, Blender est en réalité une petite usine de création numérique. Il permet de modéliser et sculpter en 3D, animer le tout et faire des rendus. Mais on peut également l'utiliser pour faire de l'animation 2D ainsi que du montage vidéo !
 
 - [Site officiel (anglais)](https://www.blender.org/)
-- [Documentation officielle](https://docs.blender.org/manual/fr/dev/)
+- 🇫🇷 [Documentation officielle](https://docs.blender.org/manual/fr/dev/)
 - [Tutoriels officiels (anglais)](https://www.blender.org/support/tutorials/)
 
 
