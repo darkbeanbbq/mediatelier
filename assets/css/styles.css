@@ -16,7 +16,7 @@ ROSE-ROUGE #ff5471
 	box-sizing: border-box;
 }
 
-body, td, th {
+body, td, th, nav {
 	font-family: 'Iosevka Web', monospace;
 	font-size: 16px;
 	color: black;
