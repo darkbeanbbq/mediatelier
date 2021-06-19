@@ -19,7 +19,7 @@ FRANCE
 https://figureslibres.cc/ collectif de designers graphiques + interactifs
 https://latelier-des-chercheurs.fr/ créateurs d'outils libres et modulaires
 http://bonjourmonde.net groupe de recherche d'expériences visuelles impliqué dans l'organisation des Journées du Logiciel Libre de Lyon
-https://velvetyne.fr/ collectif de typographes
+https://velvetyne.fr/ collectif de typographes avec collection de typos et travaux très bien documentés
 
 BELGIQUE
 http://www.luuse.io/ collectif de designers avec site ressource et typothèque
@@ -35,5 +35,5 @@ https://freehive.com agence de création pluridisciplinaire
 
 ## autres sites ressources
 
-https://prepostprint.org/ collection d'experiences graphiques et prints avec outils libres
+https://prepostprint.org/ collection d'expériences graphiques et prints avec outils libres
 https://archive.libregraphicsmag.com/ archive du projet Libre Graphics magazine
